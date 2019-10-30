@@ -1,6 +1,5 @@
 <template>
   <v-container>
-
     <v-card class="pa-4">
       <v-card-title>Sample Forms</v-card-title>
 
